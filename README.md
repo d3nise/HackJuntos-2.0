@@ -2,10 +2,10 @@
 HackJuntos 2.0 2017 Hackathon
 
 ## Contributors 
-1 **Denise Nguyen
-2 **Gabby Bautista
-3 **Jeremy Ojeda
-4 **Nick Hernandez
+1 Denise Nguyen
+2 Gabby Bautista
+3 Jeremy Ojeda
+4 Nick Hernandez
 
 
 
