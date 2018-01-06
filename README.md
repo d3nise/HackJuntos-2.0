@@ -1,11 +1,11 @@
 # HackJuntos-2.0
 HackJuntos 2.0 2017 Hackathon
 
-##Contributors 
-Denise Nguyen
-Gabby Bautista
-Jeremy Ojeda
-Nick Hernandez
+## Contributors 
+**Denise Nguyen
+**Gabby Bautista
+**Jeremy Ojeda
+**Nick Hernandez
 
 
 
